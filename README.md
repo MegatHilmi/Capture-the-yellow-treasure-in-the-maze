@@ -1,0 +1,2 @@
+# Capture the yellow treasure in the maze
+ Capture the yellow treasure in the maze us the AI playing game which are using reinforcement learning in order to control the player. The player need to avoid from collide with wall, red treasure, or green treasure. The player will keep training hundreds of episodes in order to achieve it goal. The game will stop once the player are able to capture the yellow treasure by using the shortest path.
