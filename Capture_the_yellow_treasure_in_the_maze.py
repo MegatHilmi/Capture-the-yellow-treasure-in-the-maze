@@ -306,3 +306,4 @@ if(start_the_game == "y"):
     print("start the test")
     get_shortest_path(0,0)
 
+print("The tests are completed.")
